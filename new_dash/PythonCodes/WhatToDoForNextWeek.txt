@@ -1,0 +1,6 @@
+How often should the dashboard refresh? 60Hz
+
+Is it okay to put the gif in the bottom left part?
+
+Where should I put the code?
+
